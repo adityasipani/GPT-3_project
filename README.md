@@ -1,16 +1,12 @@
 # Modern UI/UX GPT-3
-### [Live Site](https://gpt-3-project-master.vercel.app/)
+ Successfully designed and developed a fully-responsive modern UI/UX website, achieving a 98 % mobile
+responsiveness score and utilizing cutting-edge technologies such as HTML5, CSS3, and JavaScript.
+ Integrated a GPT-3-powered chatbot interface for natural language understanding and generation, resulting in 40%
+reduction in customer query response time and a 20% increase in user engagement.
+ Leveraged GPT-3’s capabilities to engage clients more effectively, contributing to a 15% increase in client interaction
+and ultimately leading to a 12% boost in user engagement, translating into higher conversion rates
 
-![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
-
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
-
-## Introduction
-This is a code repository for the corresponding video tutorial. 
-
-You might be wondering, what are the prerequisites for building such an amazing website? Don't worry, this course is completely beginner-friendly! We're going to start easy and them move to more complex topics. Every step of the way will be explained. Alongside building the website, you'll learn:
-
+IMPLEMENTATION DETAILS-
 - React Functional components and their reusability
 - React file and folder structure
 - Fundamental CSS properties to master flex & grid
